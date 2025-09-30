@@ -1,0 +1,4 @@
+
+[submodule "libs/gittry"]
+	path = libs/gittry
+	url = https://github.com/PoojaVernekarGEL/gittry.git
